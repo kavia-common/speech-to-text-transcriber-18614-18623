@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/speech-to-text-transcriber-18614-18623/voice_to_text_frontend"
+}
